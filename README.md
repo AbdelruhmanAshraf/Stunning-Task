@@ -48,7 +48,6 @@ An AI-powered landing page and vibe coding engine that turns natural language us
 │   └── prompt-builder.ts           # Dynamic system prompt compilation engine
 ├── DECISIONS.md                    # Part 2: 60-minute improvements, trade-offs, production risks
 ├── TECH.md                         # Part 3: Latest technology analysis (Reasoning Models & Sandboxing)
-├── LOOM_SCRIPT.md                  # 5-minute video walkthrough guide and demo script
 ├── package.json                    # Dependencies and build scripts
 └── README.md                       # Project documentation and run guide
 ```
@@ -103,7 +102,6 @@ npm run build
 1. **Working Full-Stack Application**: Next.js 15 App Router + TypeScript + Tailwind CSS
 2. **[DECISIONS.md](file:///Users/abdelruhamanelfekky/Desktop/stunning%20task/DECISIONS.md)**: 60-minute improvements, deliberate omissions, and top production risk mitigations.
 3. **[TECH.md](file:///Users/abdelruhamanelfekky/Desktop/stunning%20task/TECH.md)**: In-depth analysis of Reasoning Models & Distillation Pipelines for Stunning.
-4. **[LOOM_SCRIPT.md](file:///Users/abdelruhamanelfekky/Desktop/stunning%20task/LOOM_SCRIPT.md)**: Timed script and demo cues for the 5-minute video submission.
 
 ---
 
